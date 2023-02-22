@@ -12,8 +12,8 @@ The example contract being tested mimics a faucet for a fungible token (users mu
 ## Run the Example
 
 Fork the repository to get your own copy! That way you'll be able to make any changes you want to fit your needs.
-Be sure to check any requirements for running Hardhat (here)[https://hardhat.org/tutorial/setting-up-the-environment]
-You will need to (get a Testnet Hedera account)[https://portal.hedera.com/register]. Be sure to use the credentials for the account with ECDSA keys.
+Be sure to check any requirements for running Hardhat [here](https://hardhat.org/tutorial/setting-up-the-environment)
+You will need to [get a Testnet Hedera account](https://portal.hedera.com/register). Be sure to use the credentials for the account with ECDSA keys.
 
 Once ready, use the following commands:
 
@@ -41,8 +41,8 @@ If the example runs as expected, you should see the following output in the cons
 
 ## Resources
 
-- (Hedera Documentation)[https://docs.hedera.com/hedera/core-concepts/smart-contracts]
-- (Hashio)[https://swirldslabs.com/hashio/] hosted by Swirlds Labs
+- [Hedera Documentation](https://docs.hedera.com/hedera/core-concepts/smart-contracts)
+- [Hashio](https://swirldslabs.com/hashio/) hosted by Swirlds Labs
 - The following tasks may be helpful to get familiar with Hardhat:
 
 ```shell
